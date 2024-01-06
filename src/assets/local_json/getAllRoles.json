@@ -1,0 +1,20 @@
+{
+  "status": "OK",
+  "payload": [
+    {
+      "code": "2",
+      "value": "AD",
+      "displayValue": "Admin"
+    },
+    {
+      "code": "3",
+      "value": "ASSR",
+      "displayValue": "Assesor"
+    },
+    {
+      "code": "1",
+      "value": "SA",
+      "displayValue": "Super Admin"
+    }
+  ]
+}

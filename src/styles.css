@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+:root{
+    --cf-btn-bgcolor-color:#f165291a;
+    --cf-btn-color:#000;
+    --bs-body-line-height:1.8;
+    --bs-card-spacer-y: 14px;
+}
+body{
+    background-color: #ef63282b;
+    background: linear-gradient(110deg, #fcbebc91 50%, #bee1dc85 50%);
+    line-height: var(--bs-body-line-height);
+}
+
+.card{
+    --bs-card-spacer-y: 14px;
+    --bs-card-title-color:gray;
+}
+
+
+
+
+
+.btn:hover {
+    color: var(--cf-btn-color);
+    background-color: var(--cf-btn-bgcolor-color);
+    border-color: var(--bs-btn-hover-border-color);
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

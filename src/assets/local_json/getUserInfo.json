@@ -1,0 +1,10 @@
+{
+  "status": "OK",
+  "payload": {
+    "userId": 18,
+    "userName": "Mahesh Amirthalingam",
+    "userEmail": "mahesh.amirthalingam@flex.com",
+    "userRole": "ASSR-FIS-Assesor",
+    "userType": "Internal"
+  }
+}

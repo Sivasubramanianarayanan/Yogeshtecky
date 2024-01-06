@@ -1,0 +1,29 @@
+{
+  "status": "OK",
+  "payload": [
+    {
+      "userId": 28,
+      "userName": "Melchi Albert",
+      "userEmail": "melchiisaac@gmail.com",
+      "activeStatus": true,
+      "companyName": "Zoho",
+      "createdBy": "Mahesh Amirthalingam"
+    },
+	{
+      "userId": 28,
+      "userName": "Melchi Albert",
+      "userEmail": "melchiisaac@gmail.com",
+      "activeStatus": true,
+      "companyName": "Zoho",
+      "createdBy": "Mahesh Amirthalingam"
+    },
+	{
+      "userId": 28,
+      "userName": "Melchi Albert",
+      "userEmail": "melchiisaac@gmail.com",
+      "activeStatus": true,
+      "companyName": "Zoho",
+      "createdBy": "Mahesh Amirthalingam"
+    }
+  ]
+}

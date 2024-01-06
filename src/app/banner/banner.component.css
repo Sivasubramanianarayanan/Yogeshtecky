@@ -1,0 +1,59 @@
+.custom-pic{
+    width: 87px;
+    margin-left: 11px;
+    height: 80px;
+}
+p{
+    font-size: 14px;
+}
+         
+.btn-grad {
+    background-image: linear-gradient(to right, #ff6e7f 0%, #bfe9ff  51%, #ff6e7f  100%);
+    /* margin: 10px;
+    padding: 15px 45px; */
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+  }
+
+  .btn-grad:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
+  .heading-banner{
+    font-weight: 500;
+    transition: 1s;
+  }
+  .heading-banner:hover{
+    cursor: pointer;
+    /* zoom: 0.5px; */
+    transform: scale(1.1,-1.1);
+  }
+/* -------------------------------------------- */
+.hover-rotate {
+  /* overflow: hidden; */
+  margin: 8px;
+  min-width: 240px;
+  max-width: 320px;
+  width: 100%;
+}
+
+.hover-rotate img {
+  transition: all 0.7s ease-in-out 1s;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.hover-rotate:hover img {
+  /* transform: scale(1.2) rotate(10deg); */
+  transform:scale(1.2) rotate(360deg);
+  transition: all 0.7s ease-in-out 0s;
+}
+/* ---------------------------------------------------- */

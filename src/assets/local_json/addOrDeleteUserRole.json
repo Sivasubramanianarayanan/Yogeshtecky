@@ -1,0 +1,5 @@
+{
+  "userEmail": "string",
+  "roleId": "string",
+  "addRole": true
+}
